@@ -1,0 +1,15 @@
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\CreatingFromTerminal.exe
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\CreatingFromTerminal.deps.json
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\CreatingFromTerminal.runtimeconfig.json
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\CreatingFromTerminal.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\ref\CreatingFromTerminal.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\bin\Debug\net6.0\CreatingFromTerminal.pdb
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.csproj.AssemblyReference.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.AssemblyInfoInputs.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.AssemblyInfo.cs
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.csproj.CoreCompileInputs.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\ref\CreatingFromTerminal.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.pdb
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\FromTerminal\obj\Debug\net6.0\CreatingFromTerminal.genruntimeconfig.cache

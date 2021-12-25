@@ -1,0 +1,15 @@
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\TestingName.exe
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\TestingName.deps.json
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\TestingName.runtimeconfig.json
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\TestingName.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\ref\TestingName.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\bin\Debug\net6.0\TestingName.pdb
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.csproj.AssemblyReference.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.AssemblyInfoInputs.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.AssemblyInfo.cs
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.csproj.CoreCompileInputs.cache
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\ref\TestingName.dll
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.pdb
+C:\Users\David Babayan\Source\repos\C# YouTube Course\Lecture 2\TestingName\obj\Debug\net6.0\TestingName.genruntimeconfig.cache

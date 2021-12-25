@@ -1,5 +1,8 @@
-[B][b]in/
-[O][o]bj/
-[D][d]ebug/
+bin/
+Bin/
+obj/
+Obj/
+debug/
+Debug/
 .vs/
 .vscode/
