@@ -1,8 +1,9 @@
-bin/
-Bin/
-obj/
-Obj/
-debug/
-Debug/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+debug
 .vs/
 .vscode/
